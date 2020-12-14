@@ -11,8 +11,14 @@
 }
 
 
+p {
+    text-align:right;
+}
+
 body {
     font-family: "ambleregular";
+    background-image: url("images/backgound.jpg");
+    background-repeat: round;
 }
 
 h1 {
@@ -29,3 +35,8 @@ h2 {
 }
     
 
+ol
+{
+    box-shadow: 5px 5px 5px grey;
+    border: 1px solid cadetblue;
+}
